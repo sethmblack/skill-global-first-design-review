@@ -4,7 +4,8 @@ description: Review products, features, or APIs for global readiness from the in
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4097
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - global-first-design-review
 - structure
