@@ -3,8 +3,8 @@ name: global-first-design-review
 description: Review products, features, or APIs for global readiness from the initial design phase using Akio Morita's internationalization principles.
 license: MIT
 metadata:
+  version: 1.0.4098
   author: sethmblack
-  version: 1.0.4097
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - global-first-design-review
